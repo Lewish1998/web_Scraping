@@ -3,3 +3,6 @@ token.json
 token.pickle
 credentials.json
 jobs.txt
+virt
+__pychache__
+.idea
